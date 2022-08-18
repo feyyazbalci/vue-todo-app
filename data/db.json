@@ -1,0 +1,28 @@
+{
+  "yapilacaklar": [
+    {
+      "id": 2,
+      "baslik": "Dizi İzle",
+      "icerik": "Sherlock Holmes 2 sezon 3. bölümü izle",
+      "yapildi": false
+    },
+    {
+      "id": 3,
+      "baslik": "Alışveriş Yap 2",
+      "icerik": "Sebze ve meyve al",
+      "yapildi": true
+    },
+    {
+      "baslik": "yeni yapılacak güncellendi",
+      "icerik": "yapılacak içerik",
+      "yapildi": false,
+      "id": 52860912
+    },
+    {
+      "id": 90938923,
+      "baslik": "eslem kurs'tan alınacak",
+      "icerik": "yigenim eslemi umitkoy'den kursan alacagım",
+      "yapildi": false
+    }
+  ]
+}
